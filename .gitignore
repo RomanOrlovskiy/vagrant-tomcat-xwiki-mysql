@@ -1,0 +1,7 @@
+*.tar
+*.war
+*.tar.gz
+*.gz
+infrastructure/webapps/artifacts/*
+infrastructure/.vagrant/
+
